@@ -1,24 +1,23 @@
 <h1 align="center">Hi 👋, I'm Divyansh Gupta</h1>
-<h3 align="center">Offensive Security | Web & Blockchain Pentesting | Python Security Engineer</h3>
+<h3 align="center">Offensive Security | Web, Blockchain & Application Pentesting | Python & Web Developer</h3>
 
 <p align="center">
-I build real-world offensive security tools to discover and exploit vulnerabilities in web applications and smart contracts.
+I build real-world offensive security tools and web applications to discover, exploit, and secure vulnerabilities in modern systems.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Recon...;Scanning+Attack+Surface...;Finding+Vulnerabilities...;Exploiting+Weaknesses...;Generating+Pentest+Reports..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Recon...;Scanning+Attack+Surface...;Building+Web+Apps...;Finding+Vulnerabilities...;Exploiting+Weaknesses...;Generating+Pentest+Reports..." />
 </p>
 
-<!-- Live contribution snake -->
 ![snake](https://raw.githubusercontent.com/Divyansh2602/github-actions/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🛡 About Me
-- 🔍 Cybersecurity Engineer focused on **Web & Blockchain Security**
-- 💻 I develop **attack surface analyzers, exploit scanners, and vulnerability tools**
-- 🧠 Strong foundation in **penetration testing, recon, and exploit automation**
-- 🧑‍💻 I believe in breaking systems to make them secure
+- 🔍 Cybersecurity Engineer focused on **Web, Blockchain & Application Security**
+- 💻 I build **secure web applications** and **offensive security tools**
+- 🧠 Strong in **penetration testing, recon, exploit automation & web development**
+- 🧑‍💻 I understand **how apps are built and how they break**
 
 ---
 
@@ -44,10 +43,15 @@ Automated offensive security tool that:
 - Exploit Automation  
 - Recon & Crawling  
 
+### Web Development
+- Frontend: HTML, CSS, JavaScript, React  
+- Backend: APIs, Authentication, Forms  
+- Secure Web App Design  
+- Understanding of Web App Architecture  
+
 ### Programming & Tools
 - Python (Requests, BeautifulSoup, Regex, Automation)  
 - Git, Linux, Bash  
-- HTML, JavaScript (for web attack surface analysis)  
 - API & Parameter Fuzzing  
 
 ### Blockchain Security
@@ -75,6 +79,7 @@ Automated offensive security tool that:
 |---------------|--------|--------|
 | Blockchain Technology | IBM | ✅ Completed |
 | Cybersecurity & Python | Online Program | ✅ Completed |
+| Web Development | Online Program | ✅ Completed |
 | Smart Contract Security | Self-Study | 🟡 In Progress |
 
 ---
@@ -85,7 +90,7 @@ Automated offensive security tool that:
 |--------|-------|--------|
 | Smart Contract Exploit Engine | Blockchain Security | 🟡 In Progress |
 | Advanced Web Attack Surface Analyzer | Web Pentesting | 🟢 Live |
-| IDOR & Logic Exploit Tool | Web Security | 🔄 Planned |
+| Secure Web App + Exploit Lab | Web Development + Security | 🔄 Planned |
 
 ---
 
@@ -109,4 +114,4 @@ Automated offensive security tool that:
 
 ---
 
-> “Security is not about building walls — it’s about finding where they break.”
+> “To break an application, you must first know how to build it.”
