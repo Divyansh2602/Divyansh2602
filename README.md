@@ -5,6 +5,13 @@
 I build real-world offensive security tools to discover and exploit vulnerabilities in web applications and smart contracts.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Recon...;Scanning+Attack+Surface...;Finding+Vulnerabilities...;Exploiting+Weaknesses...;Generating+Pentest+Reports..." />
+</p>
+
+<!-- Live contribution snake -->
+![snake](https://raw.githubusercontent.com/Divyansh2602/github-actions/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🛡 About Me
@@ -19,9 +26,9 @@ I build real-world offensive security tools to discover and exploit vulnerabilit
 
 ### 🚀 Web Application Attack Surface Analyzer  
 Automated offensive security tool that:
-- Crawls websites
-- Extracts endpoints & parameters
-- Detects SQL Injection, XSS, IDOR candidates
+- Crawls websites  
+- Extracts endpoints & parameters  
+- Detects SQL Injection, XSS, IDOR candidates  
 - Generates professional pentest reports  
 
 🔗 https://github.com/Divyansh2602/attack-surface-analyzer
@@ -38,10 +45,10 @@ Automated offensive security tool that:
 - Recon & Crawling  
 
 ### Programming & Tools
-- Python (Requests, BeautifulSoup, Regex, Automation)
-- Git, Linux, Bash
-- HTML, JavaScript (for web attack surface analysis)
-- API & Parameter Fuzzing
+- Python (Requests, BeautifulSoup, Regex, Automation)  
+- Git, Linux, Bash  
+- HTML, JavaScript (for web attack surface analysis)  
+- API & Parameter Fuzzing  
 
 ### Blockchain Security
 - Smart Contract Vulnerability Analysis  
@@ -50,17 +57,48 @@ Automated offensive security tool that:
 
 ---
 
+## 🧪 Vulnerability Coverage
+
+| Vulnerability | Detection | Exploitation |
+|---------------|----------|-------------|
+| SQL Injection | ✅ | ✅ |
+| XSS | ✅ | 🟡 |
+| IDOR | 🟡 | 🔄 |
+| CSRF | 🔄 | 🔄 |
+| Command Injection | 🔄 | 🔄 |
+
+---
+
 ## 📜 Certifications
 
-- 🧾 **IBM Blockchain Certificate (IBM Internship)**
-- 🧾 **Cybersecurity & Python Programming**
-- 🧾 **Web Development & Security Fundamentals**
+| Certification | Provider | Status |
+|---------------|--------|--------|
+| Blockchain Technology | IBM | ✅ Completed |
+| Cybersecurity & Python | Online Program | ✅ Completed |
+| Smart Contract Security | Self-Study | 🟡 In Progress |
 
 ---
 
 ## 🚀 What I’m Building Next
-- Smart Contract Vulnerability Detection & Exploit Simulation  
-- Advanced Web Application Attack Surface Analyzer  
+
+| Project | Focus | Status |
+|--------|-------|--------|
+| Smart Contract Exploit Engine | Blockchain Security | 🟡 In Progress |
+| Advanced Web Attack Surface Analyzer | Web Pentesting | 🟢 Live |
+| IDOR & Logic Exploit Tool | Web Security | 🔄 Planned |
+
+---
+
+## 📊 Live GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh2602&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Divyansh2602&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh2602&layout=compact&theme=dark" />
+</p>
 
 ---
 
