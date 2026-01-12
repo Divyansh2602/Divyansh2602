@@ -1,45 +1,74 @@
-# 👋 Hi, I'm Divyansh Gupta
+<h1 align="center">Hi 👋, I'm Divyansh Gupta</h1>
+<h3 align="center">Offensive Security | Web & Blockchain Pentesting | Python Security Engineer</h3>
 
-🛡 Cybersecurity & Offensive Security Developer  
-💻 Python | Web Security | Exploit Research | Blockchain Security  
-
-I build real-world offensive security tools — not toy projects.
+<p align="center">
+I build real-world offensive security tools to discover and exploit vulnerabilities in web applications and smart contracts.
+</p>
 
 ---
 
-## 🔥 Active Projects
+## 🛡 About Me
+- 🔍 Cybersecurity Engineer focused on **Web & Blockchain Security**
+- 💻 I develop **attack surface analyzers, exploit scanners, and vulnerability tools**
+- 🧠 Strong foundation in **penetration testing, recon, and exploit automation**
+- 🧑‍💻 I believe in breaking systems to make them secure
+
+---
+
+## 🔥 Featured Project
 
 ### 🚀 Web Application Attack Surface Analyzer  
-Automated web security scanner that maps endpoints, extracts parameters, and detects:
-- SQL Injection
-- XSS
-- Parameter tampering
-- IDOR candidates  
+Automated offensive security tool that:
+- Crawls websites
+- Extracts endpoints & parameters
+- Detects SQL Injection, XSS, IDOR candidates
+- Generates professional pentest reports  
 
 🔗 https://github.com/Divyansh2602/attack-surface-analyzer
 
 ---
 
-## 🧠 What I work on
-- Web Application Pentesting
-- Vulnerability Discovery
-- Attack Surface Mapping
-- Exploit Automation
-- Smart Contract Security (coming)
+## 🧠 Skills
+
+### Cybersecurity
+- Web Application Pentesting  
+- Vulnerability Discovery (SQLi, XSS, IDOR, CSRF)  
+- Attack Surface Mapping  
+- Exploit Automation  
+- Recon & Crawling  
+
+### Programming & Tools
+- Python (Requests, BeautifulSoup, Regex, Automation)
+- Git, Linux, Bash
+- HTML, JavaScript (for web attack surface analysis)
+- API & Parameter Fuzzing
+
+### Blockchain Security
+- Smart Contract Vulnerability Analysis  
+- Blockchain Architecture  
+- Transaction & Contract Security  
 
 ---
 
-## 📌 Skills
-- Python, Requests, BeautifulSoup
-- Web Security (SQLi, XSS, CSRF, IDOR)
-- Linux, Git, Bash
-- Recon & Crawling
-- Vulnerability Scanning
+## 📜 Certifications
+
+- 🧾 **IBM Blockchain Certificate (IBM Internship)**
+- 🧾 **Cybersecurity & Python Programming**
+- 🧾 **Web Development & Security Fundamentals**
 
 ---
 
-## 📫 Connect
+## 🚀 What I’m Building Next
+- Smart Contract Vulnerability Detection & Exploit Simulation  
+- Advanced Web Application Attack Surface Analyzer  
+
+---
+
+## 📫 Connect With Me
 📧 divyanshg2602@gmail.com  
 🔗 https://linkedin.com/in/divyansh-gupta-485b04377  
+🐙 https://github.com/Divyansh2602  
 
-> I believe in building tools that break things — so they can be secured.
+---
+
+> “Security is not about building walls — it’s about finding where they break.”
