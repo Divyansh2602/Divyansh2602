@@ -88,7 +88,7 @@ Automated offensive security tool that:
 
 | Project | Focus | Status |
 |--------|-------|--------|
-| Smart Contract Exploit Engine | Blockchain Security | 🟡 In Progress |
+| Smart Contract Exploit Engine | Blockchain Security | 🟢 Live |
 | Advanced Web Attack Surface Analyzer | Web Pentesting | 🟢 Live |
 | Secure Web App + Exploit Lab | Web Development + Security | 🔄 Planned |
 
