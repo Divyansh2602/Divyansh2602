@@ -48,7 +48,7 @@
       <text x="36" y="74" textLength="68"><tspan fill="#22d3ee">$</tspan><tspan fill="#e6edf3" dx="6">whoami</tspan></text>
     </g>
     <text x="36" y="100" fill="#7dd3fc" filter="url(#glow)" opacity="0">
-      Divyansh Gupta — security engineer · full-stack developer · blockchain auditor
+      Divyansh Gupta — security engineer · full-stack + AI systems builder · blockchain auditor
       <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.5s" fill="freeze"/>
     </text>
 

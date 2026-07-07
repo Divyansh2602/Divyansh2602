@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="divyansh@void terminal — Divyansh Gupta, security engineer · full-stack developer · blockchain auditor" />
+<img src="assets/header.svg" width="100%" alt="divyansh@void terminal — Divyansh Gupta, security engineer · full-stack + AI systems builder · blockchain auditor" />
 
 <br/>
 
@@ -38,15 +38,17 @@
 ```console
 divyansh@void:~$ cat /etc/operator
   NAME ......... Divyansh Gupta
-  ROLE ......... Security Engineer · Full-Stack Developer · Blockchain Auditor
+  ROLE ......... Security Engineer · Full-Stack & AI Systems Builder · Blockchain Auditor
   BASE ......... CS @ VIT — class of 2027
-  RECORD ....... Backend @ XtraGrad · Smart-contract auditing @ IBM · Frontend @ 1Stop.ai
+  RECORD ....... AI-HR backend @ XtraGrad · Smart-contract auditing @ IBM · Frontend @ 1Stop.ai
+  STACK ........ Python · FastAPI · Next.js · CrewAI · multi-agent LLM pipelines · WebGL
   HONOURS ...... Hack Energy 2.0 Finalist · PSB Hackathon 2026 (UCO Bank × IIT KGP)
   DOCTRINE ..... assume hostile input · least privilege · leave an audit trail
   MISSION ...... build the systems, then break them before anyone else can
 ```
 
-- 🔭 I build **end-to-end platforms that assume hostile input** — validated UIs, modular Python backends, and offensive tooling that maps attack surface
+- 🔭 I build **end-to-end platforms that assume hostile input** — validated UIs, modular Python/FastAPI backends, and offensive tooling that maps attack surface
+- 🤖 I architect **multi-agent AI systems** — CrewAI pipelines (*TrustSphere AI* — 4-agent deepfake forensics), LLM integration (Groq · Claude · Llama 3.3), spaCy / sentence-transformer semantic matching, async inference queues
 - ⛓️ Audited **Ethereum smart contracts at IBM** — reentrancy, access control, gas-misuse
 - 🕸️ I understand **how apps are built *and* how they break**
 
@@ -56,16 +58,17 @@ divyansh@void:~$ cat /etc/operator
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,solidity,postgres,mysql,redis,elasticsearch,git,githubactions,linux,bash&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,react,nextjs,tailwind,threejs,nodejs,express,solidity,postgres,mysql,redis,elasticsearch,docker,git,githubactions,linux,bash&perline=10" alt="Tech stack" />
 
 </div>
 
 | module | payload |
 |---|---|
+| 🤖 **AI systems** | Multi-agent pipelines (CrewAI) · LLM integration (Groq · Claude · Llama 3.3) · spaCy · sentence-transformers · HuggingFace · semantic matching · Grad-CAM XAI |
+| 🧠 **Backend & data** | FastAPI · async SQLAlchemy · Celery + Redis inference queues · risk-signal classification · web crawling · ElasticSearch |
 | 🎯 **Offensive security** | Web-app pentesting · attack-surface mapping · recon & exploit automation · API/parameter fuzzing |
 | 🛡️ **Defensive doctrine** | OWASP Top 10 · threat modeling · strict input validation · secure-by-design reviews |
 | ⛓️ **Blockchain security** | Solidity auditing · reentrancy / access-control / gas-misuse detection · AST static analysis |
-| 🧠 **AI & data** | ML pipelines (scikit-learn, pandas) · LLM integrations · web crawling · ElasticSearch |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -81,6 +84,17 @@ divyansh@void:~$ cat /etc/operator
 > **Deploy:** [🌐 live](https://civicshieldx.vercel.app/) · [📁 source](https://github.com/Divyansh2602/CivicShield_full)
 
 <a href="https://github.com/Divyansh2602/CivicShield_full"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Divyansh2602&repo=CivicShield_full&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="CivicShield repo card"/></a>
+
+</details>
+
+<details open>
+<summary>⚡ <b>ACTIVE OP — TrustSphere AI</b> · multi-agent forensic deepfake detection <i>(in development)</i></summary>
+<br/>
+
+> **Mission brief:** four parallel CrewAI agents (Image · Video · Audio · Metadata) that detect deepfakes and classify the manipulation type — face swap, voice clone, GAN-generated. GAN fingerprinting attributes synthetic media to specific models (Stable Diffusion · DALL·E · Midjourney), with Grad-CAM XAI heatmaps, a Polygon blockchain audit trail, and a Chrome extension for right-click verification.
+>
+> **Stack:** `FastAPI` `CrewAI` `HuggingFace` `Next.js` `Polygon` `OpenCV`
+> **Status:** `🚧 in active development` — multi-agent orchestration + XAI explainability layer
 
 </details>
 
