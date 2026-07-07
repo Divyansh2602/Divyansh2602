@@ -1,0 +1,19 @@
+<svg width="360" height="40" viewBox="0 0 360 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="fglow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="14">
+    <text x="180" y="25" text-anchor="middle" fill="#8b949e">
+      <tspan fill="#22d3ee">&gt;</tspan> transmission ends
+    </text>
+    <rect x="290" y="13" width="9" height="15" fill="#22d3ee" filter="url(#fglow)">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

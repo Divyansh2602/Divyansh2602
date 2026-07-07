@@ -1,0 +1,22 @@
+<svg width="900" height="10" viewBox="0 0 900 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="dglow" x="-50%" y="-400%" width="200%" height="900%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <line x1="0" y1="5" x2="900" y2="5" stroke="#22d3ee" stroke-opacity="0.18" stroke-width="1"/>
+  <rect x="-160" y="4" width="160" height="2" rx="1" fill="url(#pulse)" filter="url(#dglow)">
+    <animate attributeName="x" from="-160" to="900" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="0" cy="5" r="2" fill="#22d3ee" opacity="0.55"/>
+  <circle cx="900" cy="5" r="2" fill="#22d3ee" opacity="0.55"/>
+</svg>
