@@ -33,49 +33,6 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- INTRUSION-GRID:START -->
-## `> orbital_defense --engage`
-
-**Hostile packets are inbound from orbit. You fly the interceptor 🚀 — shoot
-them down before one reaches the surface.**
-Each command below opens a pre-filled issue; a workflow resolves it and
-updates the board within about a minute.
-
-<div align="center">
-
-| | | | | |
-|---|---|---|---|---|
-| ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
-| ⬛ | ⬛ | ⬛ | ⬛ | 👾 |
-| ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
-| ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
-| ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
-| ⬛ | ⬛ | 🚀 | ⬛ | ⬛ |
-
-</div>
-
-> `LIVE` Score: **0** · lane 3/5 · your move.
-
-Last command: `fire` by **@Divyansh2602**
-
-| games played | best score | intrusions destroyed |
-|---|---|---|
-| 0 | 0 | 0 |
-
-<div align="center">
-
-[**◀ LEFT**](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+left&body=Submitting+this+issue+makes+the+interceptor+steer+left.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) &nbsp;&nbsp; [**🔫 FIRE**](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+fire&body=Submitting+this+issue+makes+the+interceptor+fire.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) &nbsp;&nbsp; [**RIGHT ▶**](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+right&body=Submitting+this+issue+makes+the+interceptor+steer+right.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.)
-
-</div>
-
-<sub>Want a clean run instead? **[relaunch](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=game%3A+new&body=Submitting+this+issue+launches+a+fresh+interceptor+run.)**.</sub>
-
-<sub>Spawn rate escalates with survival time — deterministic per run, not
-predictable in advance. Source: [`game/engine.py`](game/engine.py).</sub>
-<!-- INTRUSION-GRID:END -->
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
 ## `> whoami`
 
 ```console
@@ -126,7 +83,7 @@ divyansh@void:~$ cat /etc/operator
 > **Stack:** `Python` `JavaScript` `AI/ML` `REST APIs` `3D Visualisation`
 > **Deploy:** [🌐 live](https://civicshieldx.vercel.app/) · [📁 source](https://github.com/Divyansh2602/CivicShield_full)
 
-<a href="https://github.com/Divyansh2602/CivicShield_full"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Divyansh2602&repo=CivicShield_full&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="CivicShield repo card"/></a>
+<a href="https://github.com/Divyansh2602/CivicShield_full"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Divyansh2602&repo=CivicShield_full&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="CivicShield repo card"/></a>
 
 </details>
 
@@ -150,7 +107,7 @@ divyansh@void:~$ cat /etc/operator
 > **Stack:** `React` `TypeScript` `AES-256-GCM` `PBKDF2` `HMAC-SHA512` `Groq API`
 > **Deploy:** [🌐 live](https://ciphermind-frontend.vercel.app/) · [📁 source](https://github.com/Divyansh2602/ciphermind)
 
-<a href="https://github.com/Divyansh2602/ciphermind"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Divyansh2602&repo=ciphermind&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="CipherMind repo card"/></a>
+<a href="https://github.com/Divyansh2602/ciphermind"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Divyansh2602&repo=ciphermind&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="CipherMind repo card"/></a>
 
 </details>
 
@@ -163,7 +120,7 @@ divyansh@void:~$ cat /etc/operator
 > **Stack:** `Solidity` `JavaScript` `AST Analysis` `Web3` `Ethereum`
 > **Deploy:** [🌐 live](https://chainaudit.vercel.app/) · [📁 source](https://github.com/Divyansh2602/smart-contract-auditor)
 
-<a href="https://github.com/Divyansh2602/smart-contract-auditor"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Divyansh2602&repo=smart-contract-auditor&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="ChainAudit repo card"/></a>
+<a href="https://github.com/Divyansh2602/smart-contract-auditor"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Divyansh2602&repo=smart-contract-auditor&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="ChainAudit repo card"/></a>
 
 </details>
 
@@ -176,7 +133,7 @@ divyansh@void:~$ cat /etc/operator
 > **Stack:** `Python` `TypeScript` `Next.js` `Express` `PostgreSQL` `Redis`
 > **Deploy:** [🌐 live](https://securescout-web.vercel.app/) · [📁 source](https://github.com/Divyansh2602/securescout-)
 
-<a href="https://github.com/Divyansh2602/securescout-"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Divyansh2602&repo=securescout-&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="SecureScout repo card"/></a>
+<a href="https://github.com/Divyansh2602/securescout-"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Divyansh2602&repo=securescout-&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="SecureScout repo card"/></a>
 
 </details>
 
@@ -189,7 +146,7 @@ divyansh@void:~$ cat /etc/operator
 > **Stack:** `Python` `Requests` `BeautifulSoup` `Regex` `Automation`
 > **Deploy:** [📁 source](https://github.com/Divyansh2602/attack-surface-analyzer)
 
-<a href="https://github.com/Divyansh2602/attack-surface-analyzer"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Divyansh2602&repo=attack-surface-analyzer&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="Attack Surface Analyzer repo card"/></a>
+<a href="https://github.com/Divyansh2602/attack-surface-analyzer"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Divyansh2602&repo=attack-surface-analyzer&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="Attack Surface Analyzer repo card"/></a>
 
 </details>
 
@@ -202,7 +159,7 @@ divyansh@void:~$ cat /etc/operator
 > **Stack:** `Python` `scikit-learn` `pandas` `EDA` `Feature Engineering`
 > **Deploy:** [📁 source](https://github.com/Divyansh2602/2026_accident_model)
 
-<a href="https://github.com/Divyansh2602/2026_accident_model"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Divyansh2602&repo=2026_accident_model&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="Accident Risk Model repo card"/></a>
+<a href="https://github.com/Divyansh2602/2026_accident_model"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=Divyansh2602&repo=2026_accident_model&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&hide_border=true" alt="Accident Risk Model repo card"/></a>
 
 </details>
 
@@ -212,8 +169,8 @@ divyansh@void:~$ cat /etc/operator
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Divyansh2602&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&ring_color=22d3ee" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Divyansh2602&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=8b949e" height="170" alt="Top languages"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Divyansh2602&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=7dd3fc&text_color=8b949e&ring_color=22d3ee" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Divyansh2602&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=8b949e" height="170" alt="Top languages"/>
 
 <br/><br/>
 
