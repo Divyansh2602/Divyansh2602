@@ -1,18 +1,18 @@
 {
   "board": [
+    "O",
     " ",
     " ",
     " ",
-    " ",
-    " ",
+    "X",
     " ",
     " ",
     " ",
     " "
   ],
   "status": "active",
-  "last_move": null,
-  "last_actor": null,
+  "last_move": "B2",
+  "last_actor": "Divyansh2602",
   "stats": {
     "breaches": 0,
     "holds": 0,
