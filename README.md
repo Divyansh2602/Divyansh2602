@@ -27,47 +27,49 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Divyansh2602/github-actions/main/profile-3d-contrib/profile-cyberpunk.svg" alt="3D contribution skyline" width="100%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Divyansh2602/github-actions/main/profile-3d-contrib/profile-radar.svg" alt="Contribution radar" width="49%" />
-<img src="https://raw.githubusercontent.com/Divyansh2602/github-actions/main/profile-3d-contrib/profile-languages.svg" alt="Language breakdown" width="49%" />
+<img src="https://raw.githubusercontent.com/Divyansh2602/github-actions/main/profile-3d-contrib/profile-cyberpunk.svg" alt="3D contribution skyline — includes commit-activity radar and language-mix pie" width="100%" />
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- INTRUSION-GRID:START -->
-## `> intrusion_grid --play`
+## `> orbital_defense --engage`
 
-**You are the intruder 🟥. This profile is the firewall 🟦.**
-Click a cell — it opens a pre-filled issue, and submitting it plays your move.
-A workflow answers within about a minute.
+**Hostile packets are inbound from orbit. You fly the interceptor 🚀 — shoot
+them down before one reaches the surface.**
+Each command below opens a pre-filled issue; a workflow resolves it and
+updates the board within about a minute.
 
 <div align="center">
 
-| | 1 | 2 | 3 |
-|---|---|---|---|
-| **A** | 🟦 | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+A2&body=Submitting+this+issue+plays+A2+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+A3&body=Submitting+this+issue+plays+A3+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) |
-| **B** | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+B1&body=Submitting+this+issue+plays+B1+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) | 🟥 | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+B3&body=Submitting+this+issue+plays+B3+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) |
-| **C** | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+C1&body=Submitting+this+issue+plays+C1+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+C2&body=Submitting+this+issue+plays+C2+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+C3&body=Submitting+this+issue+plays+C3+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) |
+| | | | | |
+|---|---|---|---|---|
+| ⬛ | ⬛ | ⬛ | ⬛ | 👾 |
+| ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
+| ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
+| ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
+| ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
+| ⬛ | ⬛ | 🚀 | ⬛ | ⬛ |
 
 </div>
 
-> `LIVE` Your move. Click any ⬛ to place a node.
+> `LIVE` Score: **0** · lane 3/5 · your move.
 
-Last probe: `B2` by **@Divyansh2602**
+| games played | best score | intrusions destroyed |
+|---|---|---|
+| 0 | 0 | 0 |
 
-| sessions | breaches | contained | stalemates |
-|---|---|---|---|
-| 0 | 0 | 0 | 0 |
+<div align="center">
 
-<sub>Stuck? **[reset the grid](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=game%3A+new&body=Submitting+this+issue+resets+the+intrusion+grid+for+a+fresh+attempt.)**.</sub>
+[**◀ LEFT**](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+left&body=Submitting+this+issue+makes+the+interceptor+steer+left.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) &nbsp;&nbsp; [**🔫 FIRE**](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+fire&body=Submitting+this+issue+makes+the+interceptor+fire.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) &nbsp;&nbsp; [**RIGHT ▶**](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+right&body=Submitting+this+issue+makes+the+interceptor+steer+right.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.)
 
-<sub>The firewall searches the whole game tree, so it never loses. Noughts and
-crosses is a solved draw — a stalemate *is* the win condition here. Source:
-[`game/engine.py`](game/engine.py).</sub>
+</div>
+
+<sub>Want a clean run instead? **[relaunch](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=game%3A+new&body=Submitting+this+issue+launches+a+fresh+interceptor+run.)**.</sub>
+
+<sub>Spawn rate escalates with survival time — deterministic per run, not
+predictable in advance. Source: [`game/engine.py`](game/engine.py).</sub>
 <!-- INTRUSION-GRID:END -->
 
 <img src="assets/divider.svg" width="100%" alt="" />

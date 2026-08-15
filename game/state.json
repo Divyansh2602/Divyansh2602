@@ -1,21 +1,20 @@
 {
-  "board": [
-    "O",
-    " ",
-    " ",
-    " ",
-    "X",
-    " ",
-    " ",
-    " ",
-    " "
+  "rocket_col": 2,
+  "enemies": [
+    {
+      "col": 4,
+      "row": 0
+    }
   ],
+  "score": 0,
+  "turn": 0,
+  "seed": 1729129304,
   "status": "active",
-  "last_move": "B2",
-  "last_actor": "Divyansh2602",
+  "last_action": null,
+  "last_actor": null,
   "stats": {
-    "breaches": 0,
-    "holds": 0,
-    "stalemates": 0
+    "games_played": 0,
+    "best_score": 0,
+    "total_kills": 0
   }
 }
