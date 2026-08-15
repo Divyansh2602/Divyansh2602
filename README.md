@@ -45,8 +45,8 @@ updates the board within about a minute.
 
 | | | | | |
 |---|---|---|---|---|
-| ⬛ | ⬛ | ⬛ | ⬛ | 👾 |
 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
+| ⬛ | ⬛ | ⬛ | ⬛ | 👾 |
 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
@@ -55,6 +55,8 @@ updates the board within about a minute.
 </div>
 
 > `LIVE` Score: **0** · lane 3/5 · your move.
+
+Last command: `fire` by **@Divyansh2602**
 
 | games played | best score | intrusions destroyed |
 |---|---|---|

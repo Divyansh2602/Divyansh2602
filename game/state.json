@@ -3,15 +3,15 @@
   "enemies": [
     {
       "col": 4,
-      "row": 0
+      "row": 1
     }
   ],
   "score": 0,
-  "turn": 0,
+  "turn": 1,
   "seed": 1729129304,
   "status": "active",
-  "last_action": null,
-  "last_actor": null,
+  "last_action": "fire",
+  "last_actor": "Divyansh2602",
   "stats": {
     "games_played": 0,
     "best_score": 0,
