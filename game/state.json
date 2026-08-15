@@ -1,0 +1,21 @@
+{
+  "board": [
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " ",
+    " "
+  ],
+  "status": "active",
+  "last_move": null,
+  "last_actor": null,
+  "stats": {
+    "breaches": 0,
+    "holds": 0,
+    "stalemates": 0
+  }
+}

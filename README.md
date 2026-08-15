@@ -29,7 +29,44 @@
 
 <img src="https://raw.githubusercontent.com/Divyansh2602/github-actions/main/profile-3d-contrib/profile-cyberpunk.svg" alt="3D contribution skyline" width="100%" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Divyansh2602/github-actions/main/profile-3d-contrib/profile-radar.svg" alt="Contribution radar" width="49%" />
+<img src="https://raw.githubusercontent.com/Divyansh2602/github-actions/main/profile-3d-contrib/profile-languages.svg" alt="Language breakdown" width="49%" />
+
 </div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<!-- INTRUSION-GRID:START -->
+## `> intrusion_grid --play`
+
+**You are the intruder 🟥. This profile is the firewall 🟦.**
+Click a cell — it opens a pre-filled issue, and submitting it plays your move.
+A workflow answers within about a minute.
+
+<div align="center">
+
+| | 1 | 2 | 3 |
+|---|---|---|---|
+| **A** | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+A1&body=Submitting+this+issue+plays+A1+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+A2&body=Submitting+this+issue+plays+A2+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+A3&body=Submitting+this+issue+plays+A3+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) |
+| **B** | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+B1&body=Submitting+this+issue+plays+B1+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+B2&body=Submitting+this+issue+plays+B2+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+B3&body=Submitting+this+issue+plays+B3+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) |
+| **C** | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+C1&body=Submitting+this+issue+plays+C1+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+C2&body=Submitting+this+issue+plays+C2+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) | [⬛](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=move%3A+C3&body=Submitting+this+issue+plays+C3+on+the+intrusion+grid.%0A%0ANothing+else+needed+%E2%80%94+the+board+updates+automatically+and+this+issue+closes+itself.+Leave+the+title+exactly+as+it+is.) |
+
+</div>
+
+> `LIVE` Your move. Click any ⬛ to place a node.
+
+| sessions | breaches | contained | stalemates |
+|---|---|---|---|
+| 0 | 0 | 0 | 0 |
+
+<sub>Stuck? **[reset the grid](https://github.com/Divyansh2602/Divyansh2602/issues/new?title=game%3A+new&body=Submitting+this+issue+resets+the+intrusion+grid+for+a+fresh+attempt.)**.</sub>
+
+<sub>The firewall searches the whole game tree, so it never loses. Noughts and
+crosses is a solved draw — a stalemate *is* the win condition here. Source:
+[`game/engine.py`](game/engine.py).</sub>
+<!-- INTRUSION-GRID:END -->
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
